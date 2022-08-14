@@ -15,7 +15,7 @@ function draw() {
 
 function saveSVGFile() {
     if (!hasSaved) {
-        save("oosenchi_p5_canvas.svg")
+        save("p5_canvas.svg")
         hasSaved = true
     }
 }
